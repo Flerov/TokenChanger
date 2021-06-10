@@ -1,5 +1,5 @@
-# TokenChanger
-Short but nasty. Provide two processes by PID and let the driver change their tokens.
+# TokenChanger Twitter: Cryst4l_Pl4yer
+Short but nasty. The compiled user file takes two PIDs then the driver changes their tokens. The second one gets overwritten by the first.
 -----------
 ![alt text](https://github.com/Flerov/TokenChanger/blob/misc/Pre.png)
 ![alt text](https://github.com/Flerov/TokenChanger/blob/misc/Mid.png)
