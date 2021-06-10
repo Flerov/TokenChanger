@@ -1,4 +1,4 @@
-# TokenChanger Twitter: Cryst4l_Pl4yer
+# TokenChanger
 Short but nasty. The compiled user file takes two PIDs then the driver changes their tokens. The second one gets overwritten by the first.
 -----------
 ![alt text](https://github.com/Flerov/TokenChanger/blob/misc/Pre.png)
